@@ -74,5 +74,5 @@ EC2 · Lambda · S3 · CI/CD · Deployment & Automation
 ---
 
 <p align="center">
-  <i>Building practical solutions with clean code and modern technologies.</i>
+  <i>**Building practical solutions with clean code and modern technologies.**</i>
 </p>

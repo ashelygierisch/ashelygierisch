@@ -8,8 +8,8 @@ My main focus is building reliable and scalable **backend systems** with Python,
 
 <p align="center">
   <img src="./assets/background.jpg"  
-      width="180"
-      height="180"
+      width="100%"
+      height="300"
       style="border-radius: 50%;" />
 </p>
 

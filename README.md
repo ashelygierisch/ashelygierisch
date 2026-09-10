@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashely Gierisch
+# Hi, I'm Ashely Gierisch
 
 ### Full-Stack Developer | 4+ Years of Experience
 
@@ -70,19 +70,6 @@ My main focus is building reliable and scalable **backend systems** with Python,
 * 🗄️ SQL & NoSQL Databases
 * 📱 React Native Applications
 * 🧪 Automated Testing & API Testing
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 

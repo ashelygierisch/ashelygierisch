@@ -4,10 +4,10 @@
 
 I’m a **Full-Stack Developer** with 4+ years of experience building modern web applications, APIs, and cloud-based solutions.
 
-I enjoy turning ideas into **scalable, reliable, and user-friendly applications** — from backend architecture and APIs to responsive frontend interfaces and cloud deployment.
+I enjoy turning ideas into **scalable, reliable, and user-friendly applications** - from backend architecture and APIs to responsive frontend interfaces and cloud deployment.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Ashely%20Gierisch&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20%26%20Cloud&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://ru.pinterest.com/pin/172192385748825068/" width="100%" />
 </p>
 
 ---

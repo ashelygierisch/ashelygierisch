@@ -2,12 +2,15 @@
 
 ### Full-Stack Developer | 4+ Years of Experience
 
-I’m a **Full-Stack Developer** with 4+ years of experience building modern web applications, APIs, and cloud-based solutions.
+I’m a **Full-Stack Developer** with **4+** years of experience, specializing in **Python-based web development and modern application architecture**.
 
-I enjoy turning ideas into **scalable, reliable, and user-friendly applications** - from backend architecture and APIs to responsive frontend interfaces and cloud deployment.
+My main focus is building reliable and scalable **backend systems** with Python, Django, Flask, and FastAPI, while also working across the frontend, APIs, databases, and cloud infrastructure. I enjoy turning ideas into **practical, well-structured applications** that are built to grow.
 
 <p align="center">
-  <img src="./assets/background.jpg" width="100%" />
+  <img src="./assets/background.jpg"  
+      width="180"
+      height="180"
+      style="border-radius: 50%;" />
 </p>
 
 ---

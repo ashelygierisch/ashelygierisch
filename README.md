@@ -7,7 +7,7 @@ I’m a **Full-Stack Developer** with 4+ years of experience building modern web
 I enjoy turning ideas into **scalable, reliable, and user-friendly applications** - from backend architecture and APIs to responsive frontend interfaces and cloud deployment.
 
 <p align="center">
-  <img src="https://ru.pinterest.com/pin/172192385748825068/" width="100%" />
+  <img src="https:/" width="100%" />
 </p>
 
 ---

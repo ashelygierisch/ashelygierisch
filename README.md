@@ -62,8 +62,8 @@ EC2 · Lambda · S3 · CI/CD · Deployment & Automation
 ## Let's Connect
 
 <p>
-  <a href="mailto:ashelygierisch97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ashelygierisch97%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:angierisch00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-angierisch00%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/"> 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 

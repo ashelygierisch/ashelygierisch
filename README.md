@@ -9,7 +9,7 @@ My main focus is building reliable and scalable **backend systems** with Python,
 <p align="center">
   <img src="./assets/background1.png"
        width="100%"
-       height="300"
+       height="400"
        style="border-radius: 12px;" />
 </p>
 

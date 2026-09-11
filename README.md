@@ -7,7 +7,7 @@ I’m a **Full-Stack Developer with 4+ years of experience**, specializing in **
 My main focus is building reliable and scalable **backend systems** with Python, Django, Flask, and FastAPI, while also working across the frontend, APIs, databases, and cloud infrastructure. I enjoy turning ideas into **practical, well-structured applications** that are built to grow.
 
 <p align="center">
-  <img src="./assets/background.jpg"
+  <img src="./assets/background1.png"
        width="100%"
        height="300"
        style="border-radius: 12px;" />

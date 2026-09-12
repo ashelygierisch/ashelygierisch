@@ -65,7 +65,7 @@ EC2 · Lambda · S3 · CI/CD · Deployment & Automation
   <a href="mailto:angierisch00@gmail.com">
     <img src="https://img.shields.io/badge/Email-angierisch00%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/"> 
+  <a href="https://www.linkedin.com/in/ashley-gierisch-404279436"> 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
 </p>
